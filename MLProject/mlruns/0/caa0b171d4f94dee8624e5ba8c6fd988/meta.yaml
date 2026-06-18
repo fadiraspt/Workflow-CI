@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/diana/OneDrive/Documents/PIJAK/Workflow-CI/MLProject/mlruns/0/caa0b171d4f94dee8624e5ba8c6fd988/artifacts
+end_time: 1781818317792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: caa0b171d4f94dee8624e5ba8c6fd988
+run_name: big-chimp-620
+run_uuid: caa0b171d4f94dee8624e5ba8c6fd988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781818303022
+status: 4
+tags: []
+user_id: diana

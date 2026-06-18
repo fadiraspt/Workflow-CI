@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/diana/OneDrive/Documents/PIJAK/Workflow-CI/MLProject/mlruns/0/ec615acc94a041e18cd7ca2831d75274/artifacts
+end_time: 1781818588667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec615acc94a041e18cd7ca2831d75274
+run_name: flawless-steed-143
+run_uuid: ec615acc94a041e18cd7ca2831d75274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781818572689
+status: 3
+tags: []
+user_id: diana

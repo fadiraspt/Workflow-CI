@@ -1,0 +1,15 @@
+digest: 4685b9f1
+name: dataset
+profile: '{"num_rows": 123, "num_elements": 1353}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Gender", "required": true},
+  {"type": "double", "name": "Married", "required": true}, {"type": "double", "name":
+  "Dependents", "required": true}, {"type": "double", "name": "Education", "required":
+  true}, {"type": "double", "name": "Self_Employed", "required": true}, {"type": "double",
+  "name": "ApplicantIncome", "required": true}, {"type": "double", "name": "CoapplicantIncome",
+  "required": true}, {"type": "double", "name": "LoanAmount", "required": true}, {"type":
+  "double", "name": "Loan_Amount_Term", "required": true}, {"type": "double", "name":
+  "Credit_History", "required": true}, {"type": "double", "name": "Property_Area",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "diana", "mlflow.source.name": "modelling.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

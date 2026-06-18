@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/diana/OneDrive/Documents/PIJAK/Workflow-CI/MLProject/mlruns/223979053617587020/9b76141afa15406b9a4c69f9922729e7/artifacts
+end_time: 1781817458664
+entry_point_name: ''
+experiment_id: '223979053617587020'
+lifecycle_stage: active
+run_id: 9b76141afa15406b9a4c69f9922729e7
+run_name: lyrical-doe-37
+run_uuid: 9b76141afa15406b9a4c69f9922729e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781817400089
+status: 3
+tags: []
+user_id: diana

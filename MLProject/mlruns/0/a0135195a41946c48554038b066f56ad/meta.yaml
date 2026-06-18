@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/diana/OneDrive/Documents/PIJAK/Workflow-CI/MLProject/mlruns/0/a0135195a41946c48554038b066f56ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0135195a41946c48554038b066f56ad
+run_name: auspicious-bug-554
+run_uuid: a0135195a41946c48554038b066f56ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781817909614
+status: 1
+tags: []
+user_id: diana
